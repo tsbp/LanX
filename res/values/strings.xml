@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">LancerX</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">LancerX</string>
+    <string name="btn_OFF">Start</string>
+
+</resources>
